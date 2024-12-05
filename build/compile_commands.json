@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/yeoman/RayTracing/build",
+  "command": "\"/mnt/c/Program Files (x86)/MSYS2/mingw64/bin/g++.exe\" -I/home/yeoman/RayTracing/src -g -std=c++11 -Wnon-virtual-dtor -Wreorder -Wmaybe-uninitialized -Wunused-variable -o CMakeFiles/inOneWeekend.dir/src/InOneWeekend/main.cc.o -c /home/yeoman/RayTracing/src/InOneWeekend/main.cc",
+  "file": "/home/yeoman/RayTracing/src/InOneWeekend/main.cc",
+  "output": "CMakeFiles/inOneWeekend.dir/src/InOneWeekend/main.cc.o"
+}
+]
