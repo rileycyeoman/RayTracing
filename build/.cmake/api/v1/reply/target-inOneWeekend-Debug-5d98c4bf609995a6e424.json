@@ -142,7 +142,12 @@
 				3,
 				4,
 				5,
-				6
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
 			]
 		},
 		{
@@ -168,6 +173,11 @@
 		},
 		{
 			"backtrace" : 1,
+			"path" : "src/InOneWeekend/camera.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
 			"path" : "src/InOneWeekend/color.h",
 			"sourceGroupIndex" : 0
 		},
@@ -178,7 +188,27 @@
 		},
 		{
 			"backtrace" : 1,
+			"path" : "src/InOneWeekend/hittable_list.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/InOneWeekend/interval.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/InOneWeekend/material.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
 			"path" : "src/InOneWeekend/ray.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/InOneWeekend/rtweekend.h",
 			"sourceGroupIndex" : 0
 		},
 		{
